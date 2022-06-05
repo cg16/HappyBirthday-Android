@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">happy_birthday_card</string>
+    <string name="happy_birthday_Text">Parabens Celso!</string>
+    <string name="signature_text">-de Celso</string>
+</resources>
